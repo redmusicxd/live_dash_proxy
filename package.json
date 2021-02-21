@@ -1,0 +1,16 @@
+{
+  "name": "live_dash_proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "ffmpeg-cli": "^2.7.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "fluent-ffmpeg-multistream": "^1.0.0",
+    "mkfifo": "^2.1.0",
+    "mktemp": "^1.0.0",
+    "mpd-parser": "^0.15.2"
+  }
+}
